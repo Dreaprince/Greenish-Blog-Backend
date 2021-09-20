@@ -55,17 +55,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Project Structure
-
-[![Product Name Screen Shot]['./img/project_structure']]()
-<a href="">
-    <img src="img/project_structure" alt="Logo" width="700" height="600">
+<p>
+ Project Structure Image below
+  <a href="">
+      <img src="img/project_structure" alt="Logo" width="700" height="600">
   </a>
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
+</p>
 ### Built With
 
 * [Nodejs](https://nodejs.org/en/)
@@ -124,6 +119,9 @@ I also move the logic to handle errors (catch block) inside another middleware f
 a. asyncMiddleware function or
 b. npm package called express-async-errors
 I can choose not to called the asyncMiddleware function and Promise rejection will still be handle.
+ ```sh
+   Project Structure image inside the img folder
+   ```
 
 ## Areas to complete
 I purposelly not Add authorization and Authenication expectially to the User because i was not asked to do so.
